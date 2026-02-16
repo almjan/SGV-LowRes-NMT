@@ -13,6 +13,7 @@ The system consists of three main pipelines:
 
 ### 1. Installation
 ```bash
-git clone [https://github.com/yourusername/SGV-LowRes-NMT.git](https://github.com/yourusername/SGV-LowRes-NMT.git)
+git clone [https://github.com/alimjan/SGV-LowRes-NMT.git](https://github.com/alimjan/SGV-LowRes-NMT.git)
 cd SGV-LowRes-NMT
+
 pip install -r requirements.txt
